@@ -1,0 +1,14 @@
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.AssemblyInfoInputs.cache
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.AssemblyInfo.cs
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\bin\Debug\net10.0\CSC180 final project.exe
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\bin\Debug\net10.0\CSC180 final project.deps.json
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\bin\Debug\net10.0\CSC180 final project.runtimeconfig.json
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\bin\Debug\net10.0\CSC180 final project.dll
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\bin\Debug\net10.0\CSC180 final project.pdb
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.dll
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\refint\CSC180 final project.dll
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.pdb
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\CSC180 final project.genruntimeconfig.cache
+C:\Users\ralph\Source\Repos\C#\CSC180 final project\obj\Debug\net10.0\ref\CSC180 final project.dll
